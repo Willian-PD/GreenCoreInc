@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Despoluir_Rio
+  - Reciclagem_Lixo
+  - Reflorestammento
+  - Energia_Solar
+  - Energia_Eolica
   layers:
   - Default
   - TransparentFX

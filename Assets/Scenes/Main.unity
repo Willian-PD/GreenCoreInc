@@ -353,7 +353,7 @@ GameObject:
   - component: {fileID: 509935049}
   m_Layer: 5
   m_Name: Energia_Solar
-  m_TagString: Untagged
+  m_TagString: Energia_Solar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -674,7 +674,7 @@ GameObject:
   - component: {fileID: 849722592}
   m_Layer: 5
   m_Name: Reflorestamento
-  m_TagString: Untagged
+  m_TagString: Reflorestammento
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -835,7 +835,7 @@ GameObject:
   - component: {fileID: 1018270708}
   m_Layer: 5
   m_Name: Energia_Eolica
-  m_TagString: Untagged
+  m_TagString: Energia_Eolica
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -996,7 +996,7 @@ GameObject:
   - component: {fileID: 1171495038}
   m_Layer: 5
   m_Name: Reciclagem_Lixo
-  m_TagString: Untagged
+  m_TagString: Reciclagem_Lixo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1232,7 +1232,7 @@ GameObject:
   - component: {fileID: 1976389077}
   m_Layer: 5
   m_Name: Despoluir_Rio
-  m_TagString: Untagged
+  m_TagString: Despoluir_Rio
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
