@@ -1,0 +1,30 @@
+[Despoluição de rio]
+{
+	icone = diretório da image
+	name = nome
+	description = descrição do recurso
+}
+[Reciclagem de lixo]
+{
+	icone = diretório da image
+	name = nome
+	description = descrição do recurso
+}
+[Reflorestamento]
+{
+	icone = diretório da image
+	name = nome
+	description = descrição do recurso
+}
+[Energia Solar]
+{
+	icone = diretório da image
+	name = nome
+	description = descrição do recurso
+}
+[Energia Eólica]
+{
+	icone = diretório da image
+	name = nome
+	description = descrição do recurso
+}
