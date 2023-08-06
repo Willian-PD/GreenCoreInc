@@ -1,30 +1,30 @@
 [Despoluição de rio]
 {
-	icone = diretório da image
-	name = nome
-	description = descrição do recurso
-}
+	name = "Despoluição de Rio"
+	icone = "diretório "
+	description = "Implemente um sistema avançado de filtragem com processos de purificação para combater a poluição da água. Restaure a vida aquática promova a saúde da comunidade ribeirinha e crie um ambiente sustentável para as gerações futuras."
+} 
 [Reciclagem de lixo]
 {
-	icone = diretório da image
-	name = nome
-	description = descrição do recurso
-}
+	name = "Reflorestamento"
+	icone = "diretório "
+	description = "Plante árvores nativas em áreas degradadas para restaurar ecossistemas e habitats. Melhore a qualidade do ar regule o clima local e promova a biodiversidade. Contribua para a proteção da vida selvagem e a beleza natural do ambiente."
+} 
 [Reflorestamento]
 {
-	icone = diretório da image
-	name = nome
-	description = descrição do recurso
+	name = "Reflorestamento"
+	icone = "diretório"
+	description = "Plante árvores nativas em áreas degradadas para restaurar ecossistemas e habitats. Melhore a qualidade do ar regule o clima local e promova a biodiversidade. Contribua para a proteção da vida selvagem e a beleza natural do ambiente."
 }
 [Energia Solar]
 {
-	icone = diretório da image
-	name = nome
-	description = descrição do recurso
+	name = "Energia Solar"
+	icone = "diretório "
+	description = "Investa em painéis solares para capturar energia renovável do sol. Reduza a dependência de combustíveis fósseis diminua a pegada de carbono e contribua para a transição para fontes limpas de energia promovendo um ambiente mais limpo e saudável."
 }
 [Energia Eólica]
 {
-	icone = diretório da image
-	name = nome
-	description = descrição do recurso
+	name = "Energia Eólica"
+	icone = "diretório"
+	description = "Utilize turbinas eólicas para gerar energia sustentável a partir do vento. Contribua para a diversificação da matriz energética reduza a emissão de poluentes e promova a preservação dos recursos naturais e do clima global."
 }

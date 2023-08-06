@@ -1,18 +1,32 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using TMPro;
 
-public class UIHoverEffect : MonoBehaviour
+public class UIHoverEffect : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
-    private bool mouse_over;
+    [SerializeField]
+    public GameObject Panel;
+    private TextMeshProUGUI targetText;
+
+    public void Start()
+    {
+        targetText = Panel.GetComponentInChildren<TextMeshProUGUI>();
+    }
+
     public void OnPointerEnter(PointerEventData eventData)
     {
-        mouse_over = true;
-        Debug.Log("Mouse enter");
+        GetText();
     }
+
     public void OnPointerExit(PointerEventData eventData)
     {
-        mouse_over = false;
-        Debug.Log("Mouse exit");
+        
+    }
 
+    public void GetText()
+    {
+        string description = GetComponentInChildren<Text>().text;
+        targetText.text = description;
     }
 }
